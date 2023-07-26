@@ -1,0 +1,10 @@
+* cl-annot-prove
+
+Annotation Syntax Test Library.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Rudolph-Miller/cl-annot-prove.git   |
+| commit  | fc94cf9  |
+| systems | cl-annot-prove |
+|---------+-------------------------------------------|
+
